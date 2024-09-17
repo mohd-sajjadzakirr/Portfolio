@@ -1,20 +1,23 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Software Engineer I',
-    company: "Teton Private Ltd.",
-    duration: "(Jan 2022 - Present)"
+    title: 'Web Development Intern',
+    company: 'Bharat Intern',
+    duration: '(Jun 2023 - Jul 2023)',
+    description: 'Worked remotely on projects including content management and video conferencing tools.'
   },
   {
     id: 2,
-    title: "FullStack Developer",
-    company: "Fiverr (freelance)",
-    duration: "(Jun 2021 - Jan 2022)"
+    title: 'Intern - Introduction to Web Development',
+    company: 'Internshaala',
+    duration: '(Oct 2022 - Jun 2023)',
+    description: 'Developed a temperature conversion tool and replicated the Netflix homepage.'
   },
   {
     id: 3,
-    title: "Self Employed",
-    company: "Code and build something in everyday.",
-    duration: "(Jan 2018 - Present)"
+    title: 'Self Employed',
+    company: 'Personal Projects',
+    duration: '(Jan 2018 - Present)',
+    description: 'Worked on various personal and freelance projects including web apps and coding challenges.'
   }
-]
+];
