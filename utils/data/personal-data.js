@@ -13,6 +13,6 @@ export const personalData = {
   twitter: '', // You can add your Twitter link here if desired.
   stackOverflow: '', // Add Stack Overflow link if applicable.
   leetcode: 'https://leetcode.com/u/mohd_sajjadzakirr/',
-  devUsername: 'mohd-sajjadzakirr',
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
+  devUsername: 'mohdsajjadzakirr',
+  resume: "https://drive.google.com/file/d/1Tanq1BS-kN7EddXAbEWTyEuyPQ2hs_gp/view?usp=drive_link"
 };
