@@ -1,5 +1,5 @@
 export const personalData = {
-  name: "don daud",
+  name: "MOHD SAJJAD ZAKIR",
   profile: '/profile.png',
   designation: "Software Developer",
   description: "My name is Mohd Sajjad Zakir. I am a passionate and dedicated software developer with a strong foundation in web application development. I have experience with various technologies, particularly JavaScript, and I enjoy solving problems and creating efficient solutions. I am eager to learn and explore new technologies and am open to opportunities that align with my skills and interests.",
