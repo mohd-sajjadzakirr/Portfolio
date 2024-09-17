@@ -47,27 +47,13 @@ function HeroSection() {
               <BsLinkedin size={30} />
             </Link>
             <Link
-              href={personalData.facebook}
-              target='_blank'
-              className="transition-all text-pink-500 hover:scale-125 duration-300"
-            >
-              <FaFacebook size={30} />
-            </Link>
-            <Link
               href={personalData.leetcode}
               target='_blank'
               className="transition-all text-pink-500 hover:scale-125 duration-300"
             >
               <SiLeetcode size={30} />
             </Link>
-            <Link
-              href={personalData.twitter}
-              target='_blank'
-              className="transition-all text-pink-500 hover:scale-125 duration-300"
-            >
-              <FaTwitterSquare size={30} />
-            </Link>
-          </div>
+            </div>
 
           <div className="flex items-center gap-3">
             <Link href="#contact" className="bg-gradient-to-r to-pink-500 from-violet-600 p-[1px] rounded-full transition-all duration-300 hover:from-pink-500 hover:to-violet-600">
@@ -108,7 +94,7 @@ function HeroSection() {
               <div>
                 <span className="ml-4 lg:ml-8 mr-2 text-white">name:</span>
                 <span className="text-gray-400">{`'`}</span>
-                <span className="text-amber-300">Abu Said</span>
+                <span className="text-amber-300">Mohd Sajjad Zakir</span>
                 <span className="text-gray-400">{`',`}</span>
               </div>
               <div className="ml-4 lg:ml-8 mr-2">
